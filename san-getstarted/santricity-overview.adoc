@@ -15,8 +15,8 @@ Los sistemas E-Series incluyen el software SANtricity para el aprovisionamiento 
 
 En este sitio se describe cómo utilizar las siguientes interfaces de gestión de SANtricity:
 
-* System Manager: Interfaz basada en web utilizada para gestionar una controladora en una cabina de almacenamiento.
-* Unified Manager: Interfaz basada en web que se utiliza para ver y gestionar todas las cabinas de almacenamiento de la red.
+* System Manager de SANtricity: Una interfaz web que se utiliza para gestionar una controladora en una cabina de almacenamiento.
+* Unified Manager de SANtricity: Una interfaz web que se utiliza para ver y gestionar todas las cabinas de almacenamiento en la red.
 
 
 

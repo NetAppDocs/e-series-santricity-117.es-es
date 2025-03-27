@@ -14,7 +14,7 @@ summary: 'Para obtener seguridad adicional en una red iSCSI, se puede establecer
 [role="lead"]
 Para obtener seguridad adicional en una red iSCSI, se puede establecer la autenticación entre controladoras (objetivos) y hosts (iniciadores).
 
-System Manager usa el método de protocolo de autenticación por desafío mutuo (CHAP), que valida la identidad de los destinos e iniciadores durante el enlace inicial. La autenticación se basa en una clave de seguridad compartida denominada _CHAP Secret_.
+SANtricity System Manager usa el método de protocolo de autenticación por desafío mutuo (CHAP), que valida la identidad de los destinos e iniciadores durante el enlace inicial. La autenticación se basa en una clave de seguridad compartida denominada _CHAP Secret_.
 
 .Antes de empezar
 Es posible establecer el secreto CHAP para los iniciadores (hosts iSCSI) antes o después de haber establecido el secreto CHAP para los objetivos (controladoras). Antes de seguir las instrucciones de esta tarea, primero debe esperar a que los hosts hayan establecido una conexión iSCSI y, a continuación, configurar el secreto CHAP en los hosts individuales. Una vez realizadas las conexiones, los nombres IQN de los hosts y los secretos CHAP se enumeran en el cuadro de diálogo de autenticación iSCSI (que se describe en esta tarea), y no es necesario introducirlos manualmente.
